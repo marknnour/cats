@@ -14,7 +14,7 @@ Files in the project:
   - `utils.py`: Utility functions for interacting with files and strings.
   - `ucb.py`: Utility functions for CS61A Projects
   - `cats_gui.py`: A web server for the web-based graphical user interface (GUI)
-  - `data/common_words.txt`: A file containing common [English words in order of frequency] (https://github.com/first20hours/google-10000-english/blob/master/google-10000-english-usa-no-swears.txt)
+  - `data/common_words.txt`: A file containing common [English words in order of frequency](https://github.com/first20hours/google-10000-english/blob/master/google-10000-english-usa-no-swears.txt)
  
 
 ## 4. Running GUI
