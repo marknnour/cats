@@ -10,11 +10,11 @@ In this project, you will write a program that measures typing speed. Additional
 
 Files in the project: 
 
-  - `hog.py`: A starter implementation of Hog
-  - `dice.py`: Functions for rolling dice
-  - `hog_gui.py`: A graphical user interface (GUI) for Hog
-  - `ucb.py`: Utility functions for CS 61A
-  - `hog_ui.py`: A text-based user-interface (UI) for Hog
+  - `cats.py`: The typing test logic
+  - `utils.py`: Utility functions for interacting with files and strings.
+  - `ucb.py`: Utility functions for CS61A Projects
+  - `cats_gui.py`: A web server for the web-based graphical user interface (GUI)
+  - `data/common_words.txt`: A file containing common [English words in order of frequency] (https://github.com/first20hours/google-10000-english/blob/master/google-10000-english-usa-no-swears.txt)
  
 
 ## 4. Running GUI
