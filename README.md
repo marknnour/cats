@@ -14,6 +14,8 @@ Files in the project:
   - `utils.py`: Utility functions for interacting with files and strings.
   - `ucb.py`: Utility functions for CS61A Projects
   - `cats_gui.py`: A web server for the web-based graphical user interface (GUI)
+  - `data/sample_paragraphs.txt`: A file containing text samples to be typed. These are [scraped](https://github.com/kavigupta/wikivideos/blob/626de521e04ca643751ed85d549faca6ea528b1d/get_corpus.py) Wikipedia articles about various subjects
+  - `gui_files`: A directory of files needed for the graphical user interface (GUI)
   - `data/common_words.txt`: A file containing common [English words in order of frequency](https://github.com/first20hours/google-10000-english/blob/master/google-10000-english-usa-no-swears.txt)
  
 
